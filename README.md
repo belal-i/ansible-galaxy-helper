@@ -1,9 +1,10 @@
-### About
+### Deprecated
 
-A small helper library to use Ansible Galaxy from within Python.
+I will not maintain this.
 
-Work in progress, I will improve this soon. For now, I just need to reuse
-this code in some other tools.
+At some point I wanted a library to fine tune the management of Ansible Galaxy
+dependencies from within Python, but I decided it's not worth the trouble,
+because Ansible Galaxy works just fine as it is from the CLI.
 
 ### Installing
 
